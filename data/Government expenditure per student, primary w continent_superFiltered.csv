@@ -97,9 +97,6 @@ Belize,2014,16.34612,North America
 Belize,2015,15.10773,North America
 Belize,2016,16.23127,North America
 Belize,2017,16.55987,North America
-Bermuda,2004,9.40736,North America
-Bermuda,2005,10.92196,North America
-Bermuda,2010,11.96799,North America
 Brazil,1999,10.62585,South America
 Brazil,2000,10.5463,South America
 Brazil,2001,10.36094,South America
@@ -240,12 +237,6 @@ Djibouti,2006,21.50894,Africa
 Djibouti,2007,22.71884,Africa
 Djibouti,2008,23.11144,Africa
 Djibouti,2016,37.32327,Africa
-Dominica,2007,13.70551,North America
-Dominica,2008,17.4377,North America
-Dominica,2009,13.60483,North America
-Dominica,2010,15.05707,North America
-Dominica,2011,14.86315,North America
-Dominica,2012,13.50686,North America
 Dominican Republic,2002,7.48818,North America
 Dominican Republic,2004,4.34337,North America
 Dominican Republic,2005,6.43366,North America
@@ -483,16 +474,6 @@ Italy,2013,21.38818,EU_yes
 Italy,2014,21.20796,EU_yes
 Italy,2015,21.73441,EU_yes
 Italy,2016,19.52238,EU_yes
-Jamaica,2003,12.83743,North America
-Jamaica,2004,10.44276,North America
-Jamaica,2005,13.1913,North America
-Jamaica,2007,17.99525,North America
-Jamaica,2008,16.43938,North America
-Jamaica,2009,18.33706,North America
-Jamaica,2010,21.98013,North America
-Jamaica,2011,21.56639,North America
-Jamaica,2012,22.68455,North America
-Jamaica,2013,23.1628,North America
 Jordan,1998,14.41569,Asia
 Jordan,1999,14.6789,Asia
 Jordan,2002,15.1644,Asia
@@ -639,10 +620,6 @@ New Zealand,2013,19.41374,Oceania
 New Zealand,2014,18.17504,Oceania
 New Zealand,2015,18.34146,Oceania
 New Zealand,2016,20.32099,Oceania
-Nicaragua,2004,6.82292,North America
-Nicaragua,2005,7.65521,North America
-Nicaragua,2006,7.68605,North America
-Nicaragua,2010,11.25575,North America
 Norway,1997,37.94443,EU_no
 Norway,1998,21.38928,EU_no
 Norway,2002,20.02783,EU_no
@@ -669,9 +646,6 @@ Oman,2005,14.30091,Asia
 Oman,2009,13.1414,Asia
 Oman,2011,15.62354,Asia
 Oman,2016,31.77481,Asia
-Panama,2004,9.39577,North America
-Panama,2007,11.9181,North America
-Panama,2011,6.25014,North America
 Paraguay,2000,10.81172,South America
 Paraguay,2001,10.17672,South America
 Paraguay,2002,9.17988,South America
@@ -939,10 +913,6 @@ United Kingdom,2013,23.14708,EU_no
 United Kingdom,2014,23.5778,EU_no
 United Kingdom,2015,24.97949,EU_no
 United Kingdom,2016,24.17334,EU_no
-United States,2010,22.05341,North America
-United States,2011,20.85277,North America
-United States,2012,20.5226,North America
-United States,2013,19.71867,North America
 Uruguay,1999,7.14943,South America
 Uruguay,2000,7.25549,South America
 Uruguay,2001,9.62552,South America
