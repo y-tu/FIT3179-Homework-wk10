@@ -1,0 +1,44 @@
+body * {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-weight: 1500;
+  font-size: 55px;
+}
+
+h6 {
+  font-weight: 1;
+  font-size: 7px;
+  color: white;
+}
+
+p {
+  font-weight: 40;
+  font-style: italic;
+  font-size: 20px;
+}
+
+body {
+  background-color: rgb(165, 163, 163);
+}
+
+.page {
+  width: 1100px;
+  background-color: white;
+  margin: auto;
+  padding: 50px;
+  padding-top: 35px;
+}
+
+.vis-container {
+  width: 100%;
+}
+
+.pure-g {
+  margin-bottom: 40px;
+}
+
+.small-font {
+  font-size: 14px;
+}
