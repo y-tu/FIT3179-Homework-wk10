@@ -8,11 +8,6 @@ Andorra,2009,15.70711,EU_no
 Andorra,2010,17.08411,EU_no
 Andorra,2011,17.79961,EU_no
 Andorra,2013,15.56091,EU_no
-Andorra,2014,13.02109,EU_no
-Andorra,2015,13.45657,EU_no
-Andorra,2016,12.74297,EU_no
-Andorra,2017,12.72411,EU_no
-Andorra,2018,12.30702,EU_no
 Argentina,1998,10.95099,South America
 Argentina,1999,12.42388,South America
 Argentina,2000,12.2987,South America
@@ -33,15 +28,6 @@ Argentina,2014,14.38654,South America
 Argentina,2015,15.64309,South America
 Argentina,2016,15.2222,South America
 Argentina,2017,14.97726,South America
-Aruba,1999,11.59103,South America
-Aruba,2000,13.06282,South America
-Aruba,2001,12.19509,South America
-Aruba,2002,13.78319,South America
-Aruba,2004,11.41266,South America
-Aruba,2005,12.21276,South America
-Aruba,2012,18.38443,South America
-Aruba,2013,17.36433,South America
-Aruba,2014,17.08119,South America
 Australia,2000,16.74596,Oceania
 Australia,2005,17.92028,Oceania
 Australia,2006,17.73229,Oceania
@@ -74,15 +60,6 @@ Austria,2013,22.85994,EU_yes
 Austria,2014,22.59552,EU_yes
 Austria,2015,23.20446,EU_yes
 Austria,2016,23.48041,EU_yes
-Barbados,1999,10.55182,North America
-Barbados,2000,14.11934,North America
-Barbados,2001,19.46455,North America
-Barbados,2002,17.83147,North America
-Barbados,2003,19.45603,North America
-Barbados,2004,19.83642,North America
-Barbados,2005,19.17852,North America
-Barbados,2008,22.13818,North America
-Barbados,2016,20.75168,North America
 Belize,1999,16.87322,North America
 Belize,2000,16.24497,North America
 Belize,2004,12.42717,North America
@@ -112,15 +89,6 @@ Brazil,2012,19.54553,South America
 Brazil,2013,19.66313,South America
 Brazil,2014,19.45078,South America
 Brazil,2015,20.05496,South America
-British Virgin Islands,2001,6.03613,North America
-British Virgin Islands,2004,8.54494,North America
-British Virgin Islands,2005,8.19744,North America
-British Virgin Islands,2006,8.21172,North America
-British Virgin Islands,2007,7.37639,North America
-British Virgin Islands,2009,8.52347,North America
-British Virgin Islands,2010,11.29099,North America
-British Virgin Islands,2015,7.38379,North America
-British Virgin Islands,2017,6.24826,North America
 Cambodia,1998,5.0387,Southeast Asia
 Cambodia,2000,5.60921,Southeast Asia
 Cambodia,2001,6.53504,Southeast Asia
@@ -237,21 +205,6 @@ Djibouti,2006,21.50894,Africa
 Djibouti,2007,22.71884,Africa
 Djibouti,2008,23.11144,Africa
 Djibouti,2016,37.32327,Africa
-Dominican Republic,2002,7.48818,North America
-Dominican Republic,2004,4.34337,North America
-Dominican Republic,2005,6.43366,North America
-Dominican Republic,2007,8.2772,North America
-Dominican Republic,2008,6.71813,North America
-Dominican Republic,2009,6.73028,North America
-Dominican Republic,2010,7.05473,North America
-Dominican Republic,2011,6.86943,North America
-Dominican Republic,2012,8.6533,North America
-Dominican Republic,2013,14.41983,North America
-Dominican Republic,2014,14.76884,North America
-Dominican Republic,2015,14.92318,North America
-Dominican Republic,2016,15.80752,North America
-Dominican Republic,2017,14.61223,North America
-Dominican Republic,2018,16.18636,North America
 Ecuador,1999,3.82341,South America
 Ecuador,2000,2.85831,South America
 Ecuador,2009,11.11195,South America
@@ -279,52 +232,6 @@ El Salvador,2015,13.55766,North America
 El Salvador,2016,16.15496,North America
 El Salvador,2017,16.03698,North America
 El Salvador,2018,16.10453,North America
-Finland,1999,16.81586,EU_yes
-Finland,2000,16.3202,EU_yes
-Finland,2001,16.73011,EU_yes
-Finland,2002,17.20851,EU_yes
-Finland,2003,17.70462,EU_yes
-Finland,2004,17.78093,EU_yes
-Finland,2005,17.21847,EU_yes
-Finland,2006,17.3281,EU_yes
-Finland,2007,16.79146,EU_yes
-Finland,2008,17.70355,EU_yes
-Finland,2009,19.51865,EU_yes
-Finland,2010,20.12141,EU_yes
-Finland,2011,20.22268,EU_yes
-Finland,2012,20.60201,EU_yes
-Finland,2013,20.71923,EU_yes
-Finland,2014,21.13702,EU_yes
-Finland,2015,21.99535,EU_yes
-Finland,2016,21.50883,EU_yes
-France,1999,17.48975,EU_yes
-France,2000,17.52698,EU_yes
-France,2003,17.74476,EU_yes
-France,2004,17.95336,EU_yes
-France,2005,17.54639,EU_yes
-France,2006,17.2182,EU_yes
-France,2007,17.83394,EU_yes
-France,2008,17.5281,EU_yes
-France,2009,17.99072,EU_yes
-France,2010,18.15487,EU_yes
-France,2011,17.91099,EU_yes
-France,2012,17.49746,EU_yes
-France,2013,17.71386,EU_yes
-France,2014,17.68894,EU_yes
-France,2015,17.53958,EU_yes
-France,2016,17.3647,EU_yes
-Germany,1998,16.4901,EU_yes
-Germany,2006,15.60472,EU_yes
-Germany,2007,15.13138,EU_yes
-Germany,2008,15.10081,EU_yes
-Germany,2009,17.1887,EU_yes
-Germany,2010,17.66182,EU_yes
-Germany,2011,17.05452,EU_yes
-Germany,2012,17.32327,EU_yes
-Germany,2013,17.55396,EU_yes
-Germany,2014,17.6705,EU_yes
-Germany,2015,17.50845,EU_yes
-Germany,2016,17.44257,EU_yes
 Guatemala,2000,6.90485,North America
 Guatemala,2001,8.68612,North America
 Guatemala,2002,7.6417,North America
@@ -342,12 +249,6 @@ Guatemala,2015,10.06501,North America
 Guatemala,2016,11.08353,North America
 Guatemala,2017,11.36856,North America
 Guatemala,2018,11.88315,North America
-Guyana,2003,18.10317,South America
-Guyana,2007,8.70349,South America
-Guyana,2009,8.02104,South America
-Guyana,2010,7.98486,South America
-Guyana,2011,7.8071,South America
-Guyana,2012,7.774,South America
 Hong Kong,2001,12.18348,Asia
 Hong Kong,2002,12.62231,Asia
 Hong Kong,2003,13.86127,Asia
@@ -384,9 +285,6 @@ Iceland,2013,23.30171,EU_no
 Iceland,2014,24.10316,EU_no
 Iceland,2015,22.79978,EU_no
 Iceland,2016,22.10298,EU_no
-India,1999,12.18634,Asia
-India,2000,14.84075,Asia
-India,2001,13.73107,Asia
 India,2003,11.35044,Asia
 India,2009,7.58993,Asia
 India,2010,7.49038,Asia
@@ -487,8 +385,6 @@ Jordan,2011,15.14867,Asia
 Jordan,2016,14.87272,Asia
 Jordan,2017,13.53875,Asia
 Jordan,2018,13.30793,Asia
-Kuwait,1997,43.39998,Asia
-Kuwait,2001,17.88519,Asia
 Kuwait,2002,17.39744,Asia
 Kuwait,2003,16.87567,Asia
 Kuwait,2004,14.22543,Asia
@@ -496,7 +392,6 @@ Kuwait,2005,10.19451,Asia
 Kuwait,2006,8.56655,Asia
 Kuwait,2008,10.23347,Asia
 Kuwait,2011,17.42814,Asia
-Kuwait,2014,14.37769,Asia
 Laos,1997,5.75385,Southeast Asia
 Laos,2002,8.1949,Southeast Asia
 Laos,2005,9.74683,Southeast Asia
@@ -550,16 +445,6 @@ Mali,2014,12.23003,Africa
 Mali,2015,13.43451,Africa
 Mali,2016,9.34227,Africa
 Mali,2017,12.3362,Africa
-Mauritania,1997,10.05923,Africa
-Mauritania,1999,9.80776,Africa
-Mauritania,2005,8.36929,Africa
-Mauritania,2008,10.53936,Africa
-Mauritania,2010,11.26867,Africa
-Mauritania,2011,9.23671,Africa
-Mauritania,2012,8.78447,Africa
-Mauritania,2013,8.51612,Africa
-Mauritania,2015,9.59914,Africa
-Mauritania,2016,10.18348,Africa
 Mexico,1998,7.81185,North America
 Mexico,1999,9.4617,North America
 Mexico,2000,10.79037,North America
@@ -585,11 +470,6 @@ Moldova,2009,41.71911,EU_no
 Moldova,2010,34.51114,EU_no
 Moldova,2011,34.62075,EU_no
 Moldova,2012,32.88183,EU_no
-Moldova,2014,36.5398,EU_no
-Moldova,2015,34.82502,EU_no
-Moldova,2016,32.54519,EU_no
-Moldova,2017,32.53601,EU_no
-Moldova,2018,32.53494,EU_no
 Monaco,1997,3.02762,EU_no
 Monaco,1998,3.28531,EU_no
 Monaco,1999,3.24423,EU_no
@@ -646,16 +526,6 @@ Oman,2005,14.30091,Asia
 Oman,2009,13.1414,Asia
 Oman,2011,15.62354,Asia
 Oman,2016,31.77481,Asia
-Paraguay,2000,10.81172,South America
-Paraguay,2001,10.17672,South America
-Paraguay,2002,9.17988,South America
-Paraguay,2003,9.45778,South America
-Paraguay,2004,8.23651,South America
-Paraguay,2007,7.20452,South America
-Paraguay,2010,7.94887,South America
-Paraguay,2011,8.63235,South America
-Paraguay,2012,10.74841,South America
-Paraguay,2016,11.67423,South America
 Peru,1998,7.88182,South America
 Peru,1999,8.53039,South America
 Peru,2000,8.24191,South America
@@ -721,18 +591,6 @@ Serbia,2009,54.79301,EU_no
 Serbia,2010,51.10212,EU_no
 Serbia,2011,48.06522,EU_no
 Serbia,2015,43.65488,EU_no
-Seychelles,1998,8.61042,Africa
-Seychelles,2002,14.4642,Africa
-Seychelles,2003,15.40933,Africa
-Seychelles,2011,8.68979,Africa
-Seychelles,2012,10.2706,Africa
-Seychelles,2013,12.8518,Africa
-Seychelles,2014,15.84963,Africa
-Seychelles,2016,14.19805,Africa
-Singapore,2008,9.46673,Southeast Asia
-Singapore,2009,10.50974,Southeast Asia
-Singapore,2010,10.86314,Southeast Asia
-Singapore,2017,17.51811,Southeast Asia
 Slovak Republic,1997,24.39578,EU_yes
 Slovak Republic,1999,10.01457,EU_yes
 Slovak Republic,2000,10.54801,EU_yes
@@ -769,9 +627,6 @@ South Africa,2012,19.01025,Africa
 South Africa,2014,17.8295,Africa
 South Africa,2017,17.6493,Africa
 South Africa,2018,17.94111,Africa
-South Korea,1998,16.44121,Asia
-South Korea,1999,16.90531,Asia
-South Korea,2016,27.84732,Asia
 Spain,1998,16.97009,EU_yes
 Spain,1999,17.73268,EU_yes
 Spain,2000,17.22694,EU_yes
@@ -858,25 +713,6 @@ Timor-Leste,2011,6.27376,Southeast Asia
 Timor-Leste,2012,3.78204,Southeast Asia
 Timor-Leste,2013,4.24855,Southeast Asia
 Timor-Leste,2014,8.34206,Southeast Asia
-Togo,1998,9.27981,Africa
-Togo,1999,7.95161,Africa
-Togo,2000,10.25412,Africa
-Togo,2001,9.96597,Africa
-Togo,2002,9.32211,Africa
-Togo,2003,8.92471,Africa
-Togo,2004,7.38837,Africa
-Togo,2005,7.43245,Africa
-Togo,2006,6.32811,Africa
-Togo,2007,8.28509,Africa
-Togo,2008,8.33318,Africa
-Togo,2009,9.90917,Africa
-Togo,2010,10.56538,Africa
-Togo,2011,10.67254,Africa
-Togo,2012,14.86801,Africa
-Togo,2013,12.76128,Africa
-Togo,2014,14.24541,Africa
-Togo,2015,16.09805,Africa
-Togo,2016,16.16121,Africa
 Tonga,1998,9.23848,Oceania
 Tonga,2002,10.78056,Oceania
 Tonga,2003,9.09437,Oceania
@@ -931,9 +767,3 @@ Vanuatu,2001,12.93053,Oceania
 Vanuatu,2008,16.71592,Oceania
 Vanuatu,2009,16.15883,Oceania
 Vanuatu,2015,13.5286,Oceania
-Vietnam,2008,18.02041,Southeast Asia
-Vietnam,2009,19.2398,Southeast Asia
-Vietnam,2010,19.59413,Southeast Asia
-Vietnam,2011,17.58757,Southeast Asia
-Vietnam,2012,20.85711,Southeast Asia
-Vietnam,2013,21.14295,Southeast Asia
